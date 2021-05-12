@@ -1,3 +1,8 @@
+---
+name: Edit ColorScheme
+about: So you want to edit a color scheme eh?
+---
+
 ## Edit ColorScheme
 
 *So you want to edit a color scheme eh?*

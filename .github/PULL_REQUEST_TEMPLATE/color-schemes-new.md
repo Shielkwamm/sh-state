@@ -1,3 +1,7 @@
+---
+name: Add ColorScheme
+about: So you want to add a color scheme eh?
+---
 ## New ColorScheme
 
 *So you want to add a new color scheme eh?*
