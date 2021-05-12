@@ -1,0 +1,242 @@
+[
+  {
+    "name": "operat0r",
+    "colorScheme": "n00b",
+    "messageDelay": 5,
+    "slug": "operat0r",
+    "description": "Get yer calls answered!",
+    "isActive": false,
+    "currentExpPoints": 0,
+    "totalExpPoints": 50,
+    "level": 0,
+    "maxLevel": 5,
+    "zork": "{/+||☰?*}",
+    "bwam": "{ ◯",
+    "vibe": "↑⬤↑",
+    "_sh_": "/+△",
+    "currentMusicUrl": "https://www.youtube.com/embed/xnNCidccbG8",
+    "currentMusicTitle": "Taraf De Haidouks - Turceasca",
+    "handles": [
+      {
+        "name": "Arbitrat0r"
+      },
+      {
+        "name": "Inf0rmation"
+      },
+      {
+        "name": "chatb0t"
+      },
+      {
+        "name": "admin"
+      },
+      {
+        "name": "FishyFishy"
+      }
+    ],
+    "i18ns": [
+      {
+        "name": "shielkwamm_SH"
+      },
+      {
+        "name": "admin_ME"
+      },
+      {
+        "name": "money_$$"
+      },
+      {
+        "name": "sign_AL"
+      }
+    ]
+  },
+  {
+    "name": "△USA△",
+    "colorScheme": "△USA△",
+    "messageDelay": 5,
+    "slug": "△USA△",
+    "description": "-USA-",
+    "isActive": false,
+    "currentExpPoints": 0,
+    "totalExpPoints": 50,
+    "level": 0,
+    "maxLevel": 5,
+    "zork": "+☰",
+    "bwam": "+◯/+",
+    "vibe": "↑↑⬤↑↑",
+    "_sh_": "[+]△[+]",
+    "currentMusicUrl": "https://www.youtube.com/embed/xDRWdNn_nLk",
+    "currentMusicTitle": "Appalachian Spring - Aaron Copland",
+    "handles": [
+      {
+        "name": "admin"
+      },
+      {
+        "name": "Slipurrrrs",
+        "isDJ": true
+      },
+      {
+        "name": "Scoup",
+        "isMod": true,
+        "isDJ": true
+      },
+      {
+        "name": "<<☴",
+        "isMod": true
+      }
+    ],
+    "i18ns": [
+      {
+        "name": "eagle_US"
+      }
+    ]
+  },
+  {
+    "name": "en·vi·ron·ment",
+    "colorScheme": "imagination",
+    "isFeatured": false,
+    "messageDelay": 5,
+    "slug": "en·vi·ron·ment",
+    "description": "Spitbawlz",
+    "isActive": false,
+    "currentExpPoints": 0,
+    "totalExpPoints": 50,
+    "level": 0,
+    "maxLevel": 5,
+    "zork": "🤠",
+    "bwam": "🚜",
+    "vibe": "🌽",
+    "_sh_": "🍅",
+    "currentMusicUrl": "https://www.youtube.com/embed/vNVguvNE7qc",
+    "currentMusicTitle": "Trace Adkins - Honky Tonk Badonkadonk (Official Music Video)",
+    "handles": [
+      {
+        "name": "Arbitrat0r"
+      },
+      {
+        "name": "Inf0rmation"
+      },
+      {
+        "name": "chatb0t"
+      },
+      {
+        "name": "admin"
+      },
+      {
+        "name": "neobii",
+        "isDJ": true
+      }
+    ],
+    "i18ns": [
+      {
+        "name": "shielkwamm_SH"
+      },
+      {
+        "name": "money_$$"
+      }
+    ]
+  },
+  {
+    "name": "percent20",
+    "colorScheme": "percent20",
+    "isFeatured": true,
+    "messageDelay": 5,
+    "slug": "percent20",
+    "description": "Space",
+    "isActive": false,
+    "currentExpPoints": 0,
+    "totalExpPoints": 50,
+    "level": 0,
+    "maxLevel": 5,
+    "zork": "🌊",
+    "bwam": "?+◯☯?+",
+    "vibe": "↑⬤↑",
+    "_sh_": "+△",
+    "currentMusicUrl": "https://www.youtube.com/watch?v=pE58uZ44swA",
+    "currentMusicTitle": "Boulevard of Broken Dreams",
+    "handles": [
+      {
+        "name": "admin",
+        "isDJ": true
+      },
+      {
+        "name": "~[koko]"
+      }
+    ],
+    "i18ns": [
+      {
+        "name": "shielkwamm_SH"
+      },
+      {
+        "name": "eagle_US"
+      },
+      {
+        "name": "s_G"
+      }
+    ]
+  },
+  {
+    "name": "llololl",
+    "colorScheme": "n00b",
+    "isFeatured": false,
+    "messageDelay": 5,
+    "slug": "llololl",
+    "description": "lolo --> loll",
+    "isActive": false,
+    "currentExpPoints": 0,
+    "totalExpPoints": 50,
+    "level": 0,
+    "maxLevel": 5,
+    "zork": "🗻👌",
+    "bwam": "👌",
+    "vibe": "+🦓",
+    "_sh_": "~[🦓🧂]",
+    "currentMusicUrl": "https://www.youtube.com/embed/YaN8u2T01Xw",
+    "currentMusicTitle": "Junior 85 - Raymond Scott",
+    "handles": [
+      {
+        "name": "admin"
+      },
+      {
+        "name": "neobii",
+        "isDJ": true
+      }
+    ],
+    "i18ns": [
+      {
+        "name": "ad_AM"
+      }
+    ]
+  },
+  {
+    "name": "eyeballsGallore",
+    "colorScheme": "chos",
+    "isFeatured": false,
+    "messageDelay": 5,
+    "slug": "sg",
+    "description": "There will be lots 'n lots of eyeballs. :(",
+    "isActive": false,
+    "currentExpPoints": 0,
+    "totalExpPoints": 50,
+    "level": 0,
+    "maxLevel": 5,
+    "zork": "☺☺☺",
+    "bwam": "{ ( 🌞  )",
+    "vibe": "?xo[-]⬤?xo[+]",
+    "_sh_": "🥒?",
+    "currentMusicUrl": "https://www.youtube.com/embed/KTc3PsW5ghQ",
+    "currentMusicTitle": "Sesame Street: The Martians Discover a Telephone",
+    "handles": [
+      {
+        "name": "admin",
+        "isDJ": false
+      }
+    ],
+    "i18ns": [
+      {
+        "name": "ad_AM"
+      },
+      {
+        "name": "s_G"
+      }
+    ]
+  }
+]
