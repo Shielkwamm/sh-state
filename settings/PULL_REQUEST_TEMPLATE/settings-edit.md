@@ -1,6 +1,6 @@
-## New ColorScheme
+## Edit Settings
 
-*So you want to add a new color scheme eh?*
+*So you want to edit a setting eh?*
 
 Make sure you do these things:
 

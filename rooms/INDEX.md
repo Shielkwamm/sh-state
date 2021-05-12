@@ -1,3 +1,0 @@
-# Rooms
-
-[data](./data.json)
