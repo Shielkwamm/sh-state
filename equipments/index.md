@@ -1,5 +1,8 @@
 # Equipment
 
 [data](data.json)
-[pr new](PULL_REQUEST_TEMPLATE/equipments-new.md)
-[pr edit](PULL_REQUEST_TEMPLATE/equipments-edit.md)
+
+## Pull Request Templates
+[New](../.github/PULL_REQUEST_TEMPLATE/equipments-new.md)
+
+[Edit](../.github/PULL_REQUEST_TEMPLATE/equipments-edit.md)

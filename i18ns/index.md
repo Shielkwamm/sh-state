@@ -3,6 +3,6 @@
 > [data](data.json)
 
 ## Pull Request Templates 
-[New](PULL_REQUEST_TEMPLATE/i18ns-new.md)
+[New](../.github/PULL_REQUEST_TEMPLATE/i18ns-new.md)
 
-[Edit](PULL_REQUEST_TEMPLATE/i18ns-edit.md)
+[Edit](../.github/PULL_REQUEST_TEMPLATE/i18ns-edit.md)
