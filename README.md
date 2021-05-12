@@ -5,23 +5,23 @@ Here is the state === Shïelkwāmm ===!!
 
 ## Data
 
-[colorSchemes](./colorSchemes.json)
+[colorSchemes](colorSchemes/index.md)
 
-[i18ns](./i18ns.json)
+[i18ns](i18ns/index.md)
 
-[rooms](./rooms.json)
+[rooms](rooms/index.md)
 
-[currencies](./currencies.json)
+[currencies](currencies/index.md)
 
-[equipment](./equipments.json)
+[equipment](equipments/index.md)
 
-[handles](./handles.json)
+[handles](handles/index.md)
 
-[parties](./parties.json)
+[parties](parties/index.md)
 
 ## Settings
 
-[settings](./settings.json)
+[settings](settings/index.md)
 
 *{{ If you want to change state, please create a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests) for all changes to state, using provided pull request templates. }}*
 
