@@ -137,7 +137,7 @@
   {
     "name": "percent20",
     "colorScheme": "percent20",
-    "isFeatured": true,
+    "isFeatured": false,
     "messageDelay": 5,
     "slug": "percent20",
     "description": "Space",
@@ -234,6 +234,36 @@
       {
         "name": "ad_AM"
       },
+      {
+        "name": "s_G"
+      }
+    ]
+  },
+  {
+    "name": "Homogeneous Cell Universe",
+    "colorScheme": "chos",
+    "isFeatured": true,
+    "messageDelay": 5,
+    "slug": "homogeneous-cell-universe",
+    "description": "[][u][][][][][u][][][][][][][u][x]",
+    "isActive": true,
+    "currentExpPoints": 0,
+    "totalExpPoints": 50,
+    "level": 0,
+    "maxLevel": 5,
+    "zork": "🌌",
+    "bwam": "🌌",
+    "vibe": "🌌",
+    "_sh_": "🌌",
+    "currentMusicUrl": "https://www.youtube.com/embed/LY0kLycju-I",
+    "currentMusicTitle": "Brown Noise – 9 Hour Sleep Sound – Soft Noise / Brownian Noise / Red Noise",
+    "handles": [
+      {
+        "name": "admin",
+        "isDJ": false
+      }
+    ],
+    "i18ns": [
       {
         "name": "s_G"
       }
